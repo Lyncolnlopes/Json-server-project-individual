@@ -1,5 +1,5 @@
 {
-    "   hambúrgue":[
+    "   hamburgue":[
         {
             "id": 1,
             "nome": "X-tudo",
@@ -63,7 +63,7 @@
             "categoria_id": 2 
         }
     ],
-    "Açai":[
+    "acai":[
         {
             "id":9,
             "sabor":"banana",
